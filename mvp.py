@@ -1,1 +1,1 @@
-print("Producto minimo viable")
+print("Producto minimo viable, para validar")
