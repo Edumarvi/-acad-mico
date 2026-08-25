@@ -1,1 +1,1 @@
-print ("El mvp, basado en el prototipo")
+print ("El mvp, basado en el prototipo, para el producto final")
