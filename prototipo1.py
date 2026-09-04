@@ -1,1 +1,1 @@
-print("primer prototio")
+print("primer prototipo, base del sistema")
