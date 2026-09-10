@@ -1,2 +1,2 @@
 # -acad-mico
-###Trabajos académico docente en ingeniería de Software 
+Trabajos académico docente en ingeniería de Software 
